@@ -5,6 +5,3 @@ const sayHello = () => {
 const sayBye = () => {
     console.log("bye george")
 }
-
-sayHello()
-sayBye()
