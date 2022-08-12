@@ -1,0 +1,21 @@
+{
+  "name": "my-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeroumieh-pon/mygithubaction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeroumieh-pon/mygithubaction/issues"
+  },
+  "homepage": "https://github.com/georgeroumieh-pon/mygithubaction#readme"
+}
