@@ -8,5 +8,5 @@ const sayBye = () => {
 
 
 
-module.exports = sayHello
+module.exports = sayHello()
  
