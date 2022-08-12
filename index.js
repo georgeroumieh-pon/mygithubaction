@@ -5,3 +5,7 @@ const sayHello = () => {
 const sayBye = () => {
     console.log("bye george")
 }
+
+
+
+module.exports = sayBye,sayHello 
