@@ -9,6 +9,4 @@ jobs:
         with:
           script: |
             const sayHello = require('../../index.js')
-            const sayBye = require('../../index.js')
-            sayBye()
             sayHello()
